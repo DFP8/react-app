@@ -5,7 +5,8 @@
 
 body {
   margin: 0;
-  font-family:'Fira Mono';
+  font-family:'Fira Mono', monospace;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(26, 4, 59, 100%);
